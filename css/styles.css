@@ -30,6 +30,21 @@
       color: gray;
   }
 
+  .github:hover {
+      color: black;
+  }
+
+  .linkedin:hover{
+      color: black;
+  }
+
+  .linkedinColor{
+      color: gray;
+  }
+  .githubColor{
+      color: gray;
+  }
+
   .imgFCC {
     max-width: 100%; 
     display: block; 
