@@ -1,0 +1,38 @@
+.p-10 {
+    padding: 10px;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+  }
+  .list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+
+  .spotify > i:hover {
+      color: green;
+  }
+
+  
+  
+  .apple-music > i:hover{
+      color: black;
+  }
+
+  .spotifyColor {
+      color: green;
+  }
+  .apple-musicColor {
+      color: gray;
+  }
+
+  .imgFCC {
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
